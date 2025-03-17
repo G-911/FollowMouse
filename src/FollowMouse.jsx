@@ -23,7 +23,6 @@ export const FollowMouse = () => {
   
     return(
       <>
-      
         <div style={{
           position: 'absolute',
           backgroundColor: 'rgba(0, 0, 0, 0.5)',
